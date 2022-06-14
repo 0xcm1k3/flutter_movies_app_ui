@@ -1,16 +1,16 @@
-# movie_app
+# MOVIES APP UI made with FLUTTER
 
-A new Flutter project.
+design file ( figma ) 
+https://www.figma.com/file/qjg6q7IifDYhZhxmeyQkJ8/Movie-Streaming-App-(Community)?node-id=90%3A170
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# screenshots 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<img align="left" src="/screenshots/home.png" width=400 height=800 alt="0xcm1k3" />
+<img align="left" src="/screenshots/movies.png" width=400 height=800 alt="0xcm1k3" />
+
+credits to the designer xD
+
